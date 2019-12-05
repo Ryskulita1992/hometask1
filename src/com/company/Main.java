@@ -11,6 +11,8 @@ public class Main {
 
             switch (name) {
 
+
+
                 case "John":
                     System.out.println("Good Morning "  + name);
                     break;
